@@ -4,7 +4,8 @@
   "description": "implimenting mongodb to the shopping list app to store, edit, delete and read data",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "./node_modules/.bin/mocha"
   },
   "keywords": [
     "mongodb",
